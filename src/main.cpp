@@ -1,7 +1,6 @@
 #include "stm32f4xx_hal.h"
 #include <math.h>
 #include <stdio.h>
-#include <stdlib.h>
 
 #define GPIO_PORT         GPIOA
 #define POTENTIOMETER_PIN GPIO_PIN_0
